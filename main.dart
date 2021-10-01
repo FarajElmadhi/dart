@@ -15,3 +15,11 @@
 // === | function : void , return
 
 // === import, import as
+
+
+
+// ========OOP :
+//   ---- class
+//  ------ function=>methodes
+// ---------- constructors , short constructor (this.any)
+// RESET PARAMETRES CLASS : CASCADE operator ..
